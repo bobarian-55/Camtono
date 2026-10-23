@@ -1,6 +1,6 @@
 {
   "description": "Watch state for Marvel Star Wars (1977 series) issues #2 and #6, CGC 9.8 only.",
-  "last_checked": "2026-10-17",
+  "last_checked": "2026-10-23",
   "items": [
     {
       "key": "ha.com|https://comics.ha.com/itm/bronze-age-1970-1979-/science-fiction/star-wars-2-marvel-1977-cgc-nm-mt-98-white-pages/a/121441-12409.s",
@@ -13,6 +13,18 @@
       "sale_date": "2014-10-12",
       "description": "Marvel Star Wars #2 (1977) CGC 9.8 White Pages, first comic appearance of Jabba the Hutt's original design. Historical Heritage lot #12409.",
       "date_first_seen": "2026-10-17"
+    },
+    {
+      "key": "ha.com|https://comics.ha.com/itm/bronze-age-1970-1979-/science-fiction/star-wars-2-twin-cities-pedigree-marvel-1977-cgc-nm-mt-98-white-pages/a/121131-11329.s",
+      "source": "Heritage Auctions",
+      "url": "https://comics.ha.com/itm/bronze-age-1970-1979-/science-fiction/star-wars-2-twin-cities-pedigree-marvel-1977-cgc-nm-mt-98-white-pages/a/121131-11329.s",
+      "issue": "#2",
+      "grade": "CGC 9.8",
+      "price": "$119.50",
+      "status": "sold",
+      "sale_date": "2011-07-31",
+      "description": "Marvel Star Wars #2 (1977) CGC 9.8 White Pages, Twin Cities pedigree copy. Historical Heritage lot #11329.",
+      "date_first_seen": "2026-10-23"
     }
   ]
 }
