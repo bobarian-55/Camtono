@@ -1,5 +1,6 @@
 {
   "description": "Watch state for Lawrence Noble 1990 Killian Industries bronze Yoda statue (limited edition of 50, ~8-11in, made for Empire Strikes Back 10th anniversary). Excludes the unrelated 31-inch life-size Yoda statue.",
-  "last_checked": "2026-10-17 (re-checked, web-search-only method)",
+  "last_checked": "2026-11-06",
+  "notes": "2026-11-06 run: web-search-only sweep of eBay, Heritage Auctions (ha.com), and Propstore (propstoreauction.com / propstore.com) found no listings or completed sales matching the Killian/Official Star Wars Fan Club 1990 limited-edition-of-50 small bronze Yoda. Related but excluded (not the Killian edition, so not added to items[]): Propstore Lot #450 'William Plumb Collection: Limited-Edition Lawrence Noble Bronze Yoda Statue Artist Proof' (an AP 3/6 artist proof of Noble's original casting, predates the Killian commercial run) and Propstore Lot #411 'Lawrence Noble Original Small-Scale Bronze Yoda Statue' (Noble's one-off original, not part of the 50-piece Killian edition). Also excluded per standing rule: Heritage Auctions #7412 Lot #98127, a 31in bronze Yoda by Lawrence Noble (Lucasfilm, c.2005, sold $22,500 on 2025-05-04) — this is the life-size version, out of scope. Noted outside the three required sources (not tracked in items[]): an Etsy listing titled 'The Empire Strikes Back 10th Anniversary Yoda 1980-1990 L Noble 15/50 Signed Bronze Statue' asking ~$16,908 OBO — Etsy is not one of the watched marketplaces, surfaced here only as FYI.",
   "items": []
 }
