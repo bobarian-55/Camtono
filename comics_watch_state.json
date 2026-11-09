@@ -1,7 +1,18 @@
 {
   "description": "Watch state for Marvel Star Wars (1977 series) issues #2 and #6, CGC 9.8 only.",
-  "last_checked": "2026-10-28",
+  "last_checked": "2026-11-09",
   "items": [
+    {
+      "key": "ebay.com|https://www.ebay.com/itm/165106199272",
+      "source": "eBay",
+      "url": "https://www.ebay.com/itm/165106199272",
+      "issue": "#6",
+      "grade": "CGC 9.8",
+      "price": "$312.49 (Buy It Now or Best Offer)",
+      "status": "active (listing age ~66 days as of search; not reconfirmed live due to eBay fetch being blocked in this environment)",
+      "description": "Star Wars #6 (Marvel, 1977) CGC 9.8 White Pages listing on eBay; \"White Pages\" grading terminology is consistent with the 1977 Bronze Age printing rather than a later reprint. CGC cert number not visible in search results.",
+      "date_first_seen": "2026-11-09"
+    },
     {
       "key": "ha.com|https://comics.ha.com/itm/bronze-age-1970-1979-/science-fiction/star-wars-2-marvel-1977-cgc-nm-mt-98-white-pages/a/121441-12409.s",
       "source": "Heritage Auctions",
