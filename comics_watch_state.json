@@ -1,6 +1,6 @@
 {
   "description": "Watch state for Marvel Star Wars (1977 series) issues #2 and #6, CGC 9.8 only.",
-  "last_checked": "2026-10-28",
+  "last_checked": "2026-11-13",
   "items": [
     {
       "key": "ha.com|https://comics.ha.com/itm/bronze-age-1970-1979-/science-fiction/star-wars-2-marvel-1977-cgc-nm-mt-98-white-pages/a/121441-12409.s",
@@ -37,6 +37,21 @@
       "sale_date": "2013-11-17",
       "description": "Marvel Star Wars #6 (1977) CGC 9.8 White Pages. Historical Heritage lot #13353. Possibly covered by a Bleeding Cool article noting an in-progress bid of $210 before close.",
       "date_first_seen": "2026-10-28"
+    },
+    {
+      "key": "ha.com|https://comics.ha.com/itm/p/7456-47001.s",
+      "source": "Heritage Auctions",
+      "url": "https://comics.ha.com/itm/p/7456-47001.s",
+      "issue": "#2 and #6 (bulk lot)",
+      "grade": "CGC 9.8",
+      "price": "not shown (bulk lot, no per-issue price)",
+      "status": "upcoming",
+      "sale_date": "2026-05-04 (Star Wars Day auction #7456)",
+      "description": "Bulk lot 'Star Wars #1-107 And More (Marvel, 1977-1996)': complete run of the original 1977-1986 Marvel series plus 1995-96 reprint, 3 annuals, Return of the Jedi #1-4, and Marvel Movie Showcase #1-2, every book CGC 9.8 (mostly white pages). Includes #2 and #6 at 9.8 but not sold/priced as standalone single-issue lots.",
+      "date_first_seen": "2026-11-13"
     }
-  ]
+  ],
+  "notes": {
+    "2026-11-13": "eBay (ebay.com) could not be reached from this session's sandboxed network — searches for both issues used web-search snippets only and returned no verifiable CGC 9.8 matches for #2 or #6. A one-time request to allow ebay.com on a dedicated environment was made but requires human approval (none was present on this unattended run). Propstore (propstoreauction.com) carries essentially no CGC-graded comic book lots; none found for either issue."
+  }
 }
