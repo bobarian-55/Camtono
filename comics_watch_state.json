@@ -1,6 +1,6 @@
 {
   "description": "Watch state for Marvel Star Wars (1977 series) issues #2 and #6, CGC 9.8 only.",
-  "last_checked": "2026-10-28",
+  "last_checked": "2026-11-18",
   "items": [
     {
       "key": "ha.com|https://comics.ha.com/itm/bronze-age-1970-1979-/science-fiction/star-wars-2-marvel-1977-cgc-nm-mt-98-white-pages/a/121441-12409.s",
@@ -37,6 +37,18 @@
       "sale_date": "2013-11-17",
       "description": "Marvel Star Wars #6 (1977) CGC 9.8 White Pages. Historical Heritage lot #13353. Possibly covered by a Bleeding Cool article noting an in-progress bid of $210 before close.",
       "date_first_seen": "2026-10-28"
+    },
+    {
+      "key": "ha.com|https://comics.ha.com/itm/p/7456-47001.s",
+      "source": "Heritage Auctions",
+      "url": "https://comics.ha.com/itm/p/7456-47001.s",
+      "issue": "#2 and #6 (included within a bulk lot of the complete Star Wars #1-107 run plus annuals, Return of the Jedi #1-4, and Marvel Movie Showcase #1-2 - 110+ books total)",
+      "grade": "CGC 9.8 (every book in the lot, per listing)",
+      "price": "not publicly visible (sign-in required); overall Star Wars Day auction #7456 realized $1,279,451 across 139 lots with 96.7% sell-through",
+      "status": "likely sold (bulk lot; auction already closed, exact lot outcome not confirmed without Heritage sign-in)",
+      "sale_date": "2026-05-04",
+      "description": "Heritage's 2026 Star Wars Day Hollywood/Entertainment Signature Auction (#7456), lot 11125: 'Star Wars #1-107 And More (Marvel, 1977-1996)' - a complete CGC 9.8 run including issues #2 and #6, sold as one bulk lot rather than individually. Flagged because it contains CGC 9.8 copies of both watched issues even though it is not a single-issue listing.",
+      "date_first_seen": "2026-11-18"
     }
   ]
 }
