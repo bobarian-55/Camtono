@@ -1,5 +1,29 @@
 {
   "description": "Watch state for Lawrence Noble 1990 Killian Industries bronze Yoda statue (limited edition of 50, ~8-11in, made for Empire Strikes Back 10th anniversary). Excludes the unrelated 31-inch life-size Yoda statue.",
-  "last_checked": "2026-10-17 (re-checked, web-search-only method)",
-  "items": []
+  "last_checked": "2026-11-22 (web-search-only method)",
+  "items": [],
+  "excluded_seen": [
+    {
+      "source": "propstore",
+      "url": "https://propstoreauction.com/lot-details/index/catalog/397/lot/138377",
+      "title": "Lot #411 - William Plumb Collection: Lawrence Noble Original Small-Scale Bronze Yoda Statue",
+      "reason": "Noble's own original cast ('YODA #1'), not a numbered piece from the Killian Industries edition of 50; sold $10,080.",
+      "date_seen": "2026-11-22"
+    },
+    {
+      "source": "propstore",
+      "url": "https://propstore.com/product/star-wars-original-trilogy-1977-1983/lot-450-william-plumb-collection-limited-edition-lawrence-noble-bronze-yoda-statue-artist-proof",
+      "title": "Lot #450 - William Plumb Collection: Limited-Edition Lawrence Noble Bronze Yoda Statue Artist Proof",
+      "reason": "Artist Proof 3/6, a separate 6-piece proof run, not the commercial edition of 50; est. $30,000-$60,000.",
+      "date_seen": "2026-11-22"
+    },
+    {
+      "source": "ha.com",
+      "url": "https://comics.ha.com/itm/animation-art/maquette/star-wars-yoda-31-bronze-sculpture-by-lawrence-noble-lucasfilm-c-2005-total-2-/a/7412-98127.s",
+      "title": "Star Wars Yoda 31\" Bronze Sculpture by Lawrence Noble (Lucasfilm, c. 2005)",
+      "reason": "This is the excluded 31-inch life-size statue, not the 1990 edition-of-50 piece.",
+      "date_seen": "2026-11-22"
+    }
+  ],
+  "notes": "No active or sold eBay/Heritage/Propstore listing found matching the actual 1990 Killian Industries edition-of-50 bronze (~8-11in). A plausible match (numbered 15/50, 'Empire Strikes Back 10th Anniversary 1980-1990' bronze) was seen on Etsy, which is outside this watch's tracked sources (eBay/Heritage/Propstore only), so it is not added to 'items'."
 }
