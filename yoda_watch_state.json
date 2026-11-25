@@ -1,5 +1,20 @@
 {
-  "description": "Watch state for Lawrence Noble 1990 Killian Industries bronze Yoda statue (limited edition of 50, ~8-11in, made for Empire Strikes Back 10th anniversary). Excludes the unrelated 31-inch life-size Yoda statue.",
-  "last_checked": "2026-10-17 (re-checked, web-search-only method)",
-  "items": []
+  "description": "Watch state for Lawrence Noble 1990 Killian Industries/Enterprises bronze Yoda statue (limited edition of 50, ~8-11in, made for Empire Strikes Back 10th anniversary). Excludes the unrelated 31-inch life-size Yoda statue and later commissioned 'Bronze Yoda' artist-proof runs.",
+  "last_checked": "2026-11-25 (web-search-only method; propstore.com, propstoreauction.com, and www.the-saleroom.com do not resolve from this session's network and could not be fetched directly)",
+  "items": [
+    {
+      "key": "propstoreauction.com|catalog397|lot138377",
+      "source": "Propstore Auctions (propstoreauction.com)",
+      "url": "https://propstoreauction.com/lot-details/index/catalog/397/lot/138377",
+      "title": "Lot #411 - William Plumb Collection: Lawrence Noble Original Small-Scale Bronze Yoda Statue",
+      "description": "8-inch bronze Yoda statue produced by Killian Enterprises in 1990 under license from the small Lawrence Noble sculpt, made for the 10th anniversary of The Empire Strikes Back; part of the edition of 50. From William Plumb's personal collection.",
+      "edition": "1 of edition of 50 (Killian Enterprises, 1990)",
+      "status": "sold",
+      "price": "$10,080 USD (9 bids)",
+      "estimate": "$5,000-$10,000 USD",
+      "auction_date": "uncertain - appears to be a Propstore 'Entertainment Memorabilia' live auction, possibly ~2023; exact date not confirmed (sold price/date details sit behind a Propstore login wall and the site could not be fetched directly)",
+      "date_first_seen": "2026-11-25",
+      "notes": "Distinct from Propstore Lot #450 (also Plumb Collection, 'Limited-Edition Lawrence Noble Bronze Yoda Statue Artist Proof'), which appears to be an artist-proof from a different, later commissioned run (6 artist proofs + 30 statues) and not explicitly tied to the 1990 Killian edition of 50 - excluded as not a clear match."
+    }
+  ]
 }
